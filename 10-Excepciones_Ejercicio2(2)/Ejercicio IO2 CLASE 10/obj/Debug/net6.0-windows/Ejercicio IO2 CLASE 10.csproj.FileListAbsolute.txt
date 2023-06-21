@@ -1,0 +1,17 @@
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\bin\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.exe
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\bin\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.deps.json
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\bin\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.runtimeconfig.json
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\bin\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.dll
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\bin\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.pdb
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio_IO2_CLASE_10.Form1.resources
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.dll
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\refint\Ejercicio IO2 CLASE 10.dll
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.pdb
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\Ejercicio IO2 CLASE 10.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\Ejercicio IO2 CLASE 10\Ejercicio IO2 CLASE 10\obj\Debug\net6.0-windows\ref\Ejercicio IO2 CLASE 10.dll

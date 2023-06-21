@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio 2 CLASE 04/1.0.0": {
+        "dependencies": {
+          "BibliotecaCotizador": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio 2 CLASE 04.dll": {}
+        }
+      },
+      "BibliotecaCotizador/1.0.0": {
+        "runtime": {
+          "BibliotecaCotizador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio 2 CLASE 04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaCotizador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

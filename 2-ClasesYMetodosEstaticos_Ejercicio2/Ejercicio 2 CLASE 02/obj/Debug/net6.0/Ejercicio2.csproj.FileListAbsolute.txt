@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\bin\Debug\net6.0\Ejercicio2.exe
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\bin\Debug\net6.0\Ejercicio2.deps.json
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\bin\Debug\net6.0\Ejercicio2.dll
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\bin\Debug\net6.0\Ejercicio2.pdb
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\Ejercicio2.dll
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\refint\Ejercicio2.dll
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\Ejercicio2.pdb
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 02\Ejercicio 2 CLASE 02\obj\Debug\net6.0\ref\Ejercicio2.dll

@@ -1,0 +1,18 @@
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\bin\Debug\net6.0-windows\Ejercicio 1 CLASE 07.exe
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\bin\Debug\net6.0-windows\Ejercicio 1 CLASE 07.deps.json
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\bin\Debug\net6.0-windows\Ejercicio 1 CLASE 07.runtimeconfig.json
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\bin\Debug\net6.0-windows\Ejercicio 1 CLASE 07.dll
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\bin\Debug\net6.0-windows\Ejercicio 1 CLASE 07.pdb
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio 1 CLASE 07.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio 1 CLASE 07.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio 1 CLASE 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio 1 CLASE 07.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio 1 CLASE 07.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio 1 CLASE 07.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio 1 CLASE 07.dll
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\refint\Ejercicio 1 CLASE 07.dll
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio 1 CLASE 07.pdb
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio 1 CLASE 07.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\ref\Ejercicio 1 CLASE 07.dll
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio_1_CLASE_07.FrmAltaModificacion.resources
+C:\Users\crist\source\repos\2023\Ejercicio 1 CLASE 07\Ejercicio 1 CLASE 07\obj\Debug\net6.0-windows\Ejercicio_1_CLASE_07.FrmListaSuper.resources

@@ -1,0 +1,12 @@
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\obj\Debug\net6.0\BibliotecaClases.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\obj\Debug\net6.0\BibliotecaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\obj\Debug\net6.0\BibliotecaClases.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\obj\Debug\net6.0\BibliotecaClases.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\obj\Debug\net6.0\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\bin\Debug\net6.0\BibliotecaClases.deps.json
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\bin\Debug\net6.0\BibliotecaClases.dll
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\bin\Debug\net6.0\BibliotecaClases.pdb
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\obj\Debug\net6.0\BibliotecaClases.dll
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\obj\Debug\net6.0\refint\BibliotecaClases.dll
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\obj\Debug\net6.0\BibliotecaClases.pdb
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 Poliformismo CLASE 09\obj\Debug\net6.0\ref\BibliotecaClases.dll

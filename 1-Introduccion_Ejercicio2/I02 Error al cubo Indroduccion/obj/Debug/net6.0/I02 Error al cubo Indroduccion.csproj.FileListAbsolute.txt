@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\bin\Debug\net6.0\I02 Error al cubo Indroduccion.exe
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\bin\Debug\net6.0\I02 Error al cubo Indroduccion.deps.json
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\bin\Debug\net6.0\I02 Error al cubo Indroduccion.runtimeconfig.json
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\bin\Debug\net6.0\I02 Error al cubo Indroduccion.dll
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\bin\Debug\net6.0\I02 Error al cubo Indroduccion.pdb
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\I02 Error al cubo Indroduccion.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\I02 Error al cubo Indroduccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\I02 Error al cubo Indroduccion.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\I02 Error al cubo Indroduccion.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\I02 Error al cubo Indroduccion.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\I02 Error al cubo Indroduccion.dll
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\refint\I02 Error al cubo Indroduccion.dll
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\I02 Error al cubo Indroduccion.pdb
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\I02 Error al cubo Indroduccion.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\I02 Error al cubo Indroduccion\I02 Error al cubo Indroduccion\obj\Debug\net6.0\ref\I02 Error al cubo Indroduccion.dll

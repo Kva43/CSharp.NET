@@ -1,0 +1,18 @@
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\I01 PuestoDeAtencion.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\I01 PuestoDeAtencion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\I01 PuestoDeAtencion.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\I01 PuestoDeAtencion.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\I01 PuestoDeAtencion.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\bin\Debug\net6.0\I01 PuestoDeAtencion.exe
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\bin\Debug\net6.0\I01 PuestoDeAtencion.deps.json
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\bin\Debug\net6.0\I01 PuestoDeAtencion.runtimeconfig.json
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\bin\Debug\net6.0\I01 PuestoDeAtencion.dll
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\bin\Debug\net6.0\I01 PuestoDeAtencion.pdb
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\bin\Debug\net6.0\BibliotecaClases.dll
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\bin\Debug\net6.0\BibliotecaClases.pdb
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\I01 PuestoDeAtencion.csproj.CopyComplete
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\I01 PuestoDeAtencion.dll
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\refint\I01 PuestoDeAtencion.dll
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\I01 PuestoDeAtencion.pdb
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\I01 PuestoDeAtencion.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\I01 Poliformismo CLASE 09\I01 PuestoDeAtencion\obj\Debug\net6.0\ref\I01 PuestoDeAtencion.dll

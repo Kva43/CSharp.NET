@@ -1,0 +1,18 @@
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\bin\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.exe
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\bin\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.deps.json
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\bin\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.runtimeconfig.json
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\bin\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.dll
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\bin\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.pdb
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.csproj.CopyComplete
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.dll
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\refint\A01 VieneConSistemaDeAutoNavegacion.dll
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.pdb
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\A01 VieneConSistemaDeAutoNavegacion.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\A01 VieneConSistemaDeAutoNavegacion\A01 VieneConSistemaDeAutoNavegacion\obj\Debug\net6.0\ref\A01 VieneConSistemaDeAutoNavegacion.dll

@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\bin\Debug\net6.0\Serializacion CLASE 07.exe
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\bin\Debug\net6.0\Serializacion CLASE 07.deps.json
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\bin\Debug\net6.0\Serializacion CLASE 07.runtimeconfig.json
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\bin\Debug\net6.0\Serializacion CLASE 07.dll
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\bin\Debug\net6.0\Serializacion CLASE 07.pdb
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\Serializacion CLASE 07.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\Serializacion CLASE 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\Serializacion CLASE 07.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\Serializacion CLASE 07.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\Serializacion CLASE 07.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\Serializacion CLASE 07.dll
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\refint\Serializacion CLASE 07.dll
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\Serializacion CLASE 07.pdb
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\Serializacion CLASE 07.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\Serializacion CLASE 07\Serializacion CLASE 07\obj\Debug\net6.0\ref\Serializacion CLASE 07.dll

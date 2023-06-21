@@ -1,0 +1,18 @@
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\bin\Debug\net6.0\Ejercicio 2 CLASE 04.exe
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\bin\Debug\net6.0\Ejercicio 2 CLASE 04.deps.json
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\bin\Debug\net6.0\Ejercicio 2 CLASE 04.runtimeconfig.json
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\bin\Debug\net6.0\Ejercicio 2 CLASE 04.dll
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\bin\Debug\net6.0\Ejercicio 2 CLASE 04.pdb
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\bin\Debug\net6.0\BibliotecaCotizador.dll
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\bin\Debug\net6.0\BibliotecaCotizador.pdb
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\Ejercicio 2 CLASE 04.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\Ejercicio 2 CLASE 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\Ejercicio 2 CLASE 04.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\Ejercicio 2 CLASE 04.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\Ejercicio 2 CLASE 04.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\Ejercicio 2 CLASE 04.csproj.CopyComplete
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\Ejercicio 2 CLASE 04.dll
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\refint\Ejercicio 2 CLASE 04.dll
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\Ejercicio 2 CLASE 04.pdb
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\Ejercicio 2 CLASE 04.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\Ejercicio 2 CLASE 04\Ejercicio 2 CLASE 04\obj\Debug\net6.0\ref\Ejercicio 2 CLASE 04.dll

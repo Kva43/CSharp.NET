@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\bin\Debug\net6.0\I01 Max Min y prom Introducción .NET.exe
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\bin\Debug\net6.0\I01 Max Min y prom Introducción .NET.deps.json
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\bin\Debug\net6.0\I01 Max Min y prom Introducción .NET.runtimeconfig.json
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\bin\Debug\net6.0\I01 Max Min y prom Introducción .NET.dll
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\bin\Debug\net6.0\I01 Max Min y prom Introducción .NET.pdb
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\I01 Max Min y prom Introducción .NET.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\I01 Max Min y prom Introducción .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\I01 Max Min y prom Introducción .NET.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\I01 Max Min y prom Introducción .NET.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\I01 Max Min y prom Introducción .NET.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\I01 Max Min y prom Introducción .NET.dll
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\refint\I01 Max Min y prom Introducción .NET.dll
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\I01 Max Min y prom Introducción .NET.pdb
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\I01 Max Min y prom Introducción .NET.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET\obj\Debug\net6.0\ref\I01 Max Min y prom Introducción .NET.dll

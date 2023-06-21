@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01 Max Min y prom Introducción .NET", "I01 Max Min y prom Introducción .NET\I01 Max Min y prom Introducción .NET.csproj", "{8088D1B1-88D3-44EE-8EF0-34CC6B2A9BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8088D1B1-88D3-44EE-8EF0-34CC6B2A9BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8088D1B1-88D3-44EE-8EF0-34CC6B2A9BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8088D1B1-88D3-44EE-8EF0-34CC6B2A9BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8088D1B1-88D3-44EE-8EF0-34CC6B2A9BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {650D76EC-4F3B-4CAE-8363-E3477A65159B}
+	EndGlobalSection
+EndGlobal
