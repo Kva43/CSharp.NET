@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 2 CLASE 04\\BibliotecaCotizador\\BibliotecaCotizador.csproj": {}
+    "C:\\Users\\crist\\source\\repos\\2023\\04-Sobrecarga_Ejercicio2\\BibliotecaCotizador\\BibliotecaCotizador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 2 CLASE 04\\BibliotecaCotizador\\BibliotecaCotizador.csproj": {
+    "C:\\Users\\crist\\source\\repos\\2023\\04-Sobrecarga_Ejercicio2\\BibliotecaCotizador\\BibliotecaCotizador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 2 CLASE 04\\BibliotecaCotizador\\BibliotecaCotizador.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\source\\repos\\2023\\04-Sobrecarga_Ejercicio2\\BibliotecaCotizador\\BibliotecaCotizador.csproj",
         "projectName": "BibliotecaCotizador",
-        "projectPath": "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 2 CLASE 04\\BibliotecaCotizador\\BibliotecaCotizador.csproj",
+        "projectPath": "C:\\Users\\crist\\source\\repos\\2023\\04-Sobrecarga_Ejercicio2\\BibliotecaCotizador\\BibliotecaCotizador.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 2 CLASE 04\\BibliotecaCotizador\\obj\\",
+        "outputPath": "C:\\Users\\crist\\source\\repos\\2023\\04-Sobrecarga_Ejercicio2\\BibliotecaCotizador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
