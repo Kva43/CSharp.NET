@@ -1,0 +1,17 @@
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\bin\Debug\net6.0-windows\05-Forms_EjercicioExtra.exe
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\bin\Debug\net6.0-windows\05-Forms_EjercicioExtra.deps.json
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\bin\Debug\net6.0-windows\05-Forms_EjercicioExtra.runtimeconfig.json
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\bin\Debug\net6.0-windows\05-Forms_EjercicioExtra.dll
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\bin\Debug\net6.0-windows\05-Forms_EjercicioExtra.pdb
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\05-Forms_EjercicioExtra.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\_05_Forms_EjercicioExtra.FrmSaludo.resources
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\05-Forms_EjercicioExtra.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\05-Forms_EjercicioExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\05-Forms_EjercicioExtra.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\05-Forms_EjercicioExtra.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\05-Forms_EjercicioExtra.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\05-Forms_EjercicioExtra.dll
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\refint\05-Forms_EjercicioExtra.dll
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\05-Forms_EjercicioExtra.pdb
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\05-Forms_EjercicioExtra.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\05-Forms_EjercicioExtra\05-Forms_EjercicioExtra\obj\Debug\net6.0-windows\ref\05-Forms_EjercicioExtra.dll
