@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\06-Colecciones_Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\06-Colecciones_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\06-Colecciones_Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\06-Colecciones_Ejercicio2.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\06-Colecciones_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\bin\Debug\net6.0\06-Colecciones_Ejercicio2.exe
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\bin\Debug\net6.0\06-Colecciones_Ejercicio2.deps.json
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\bin\Debug\net6.0\06-Colecciones_Ejercicio2.runtimeconfig.json
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\bin\Debug\net6.0\06-Colecciones_Ejercicio2.dll
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\bin\Debug\net6.0\06-Colecciones_Ejercicio2.pdb
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\06-Colecciones_Ejercicio2.dll
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\refint\06-Colecciones_Ejercicio2.dll
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\06-Colecciones_Ejercicio2.pdb
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\06-Colecciones_Ejercicio2.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\06-Colecciones_Ejercicio2\06-Colecciones_Ejercicio2\obj\Debug\net6.0\ref\06-Colecciones_Ejercicio2.dll

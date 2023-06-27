@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06.csproj": {}
+    "C:\\Users\\crist\\source\\repos\\2023\\06-Colecciones_Ejercicio3\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06.csproj": {
+    "C:\\Users\\crist\\source\\repos\\2023\\06-Colecciones_Ejercicio3\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\source\\repos\\2023\\06-Colecciones_Ejercicio3\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06.csproj",
         "projectName": "Ejercicio 3 CLASE 06",
-        "projectPath": "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06.csproj",
+        "projectPath": "C:\\Users\\crist\\source\\repos\\2023\\06-Colecciones_Ejercicio3\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crist\\source\\repos\\2023\\Ejercicio 3 CLASE 06\\Ejercicio 3 CLASE 06\\obj\\",
+        "outputPath": "C:\\Users\\crist\\source\\repos\\2023\\06-Colecciones_Ejercicio3\\Ejercicio 3 CLASE 06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",

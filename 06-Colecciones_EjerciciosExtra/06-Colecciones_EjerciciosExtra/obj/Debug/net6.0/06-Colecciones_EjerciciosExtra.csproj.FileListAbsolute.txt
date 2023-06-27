@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\bin\Debug\net6.0\06-Colecciones_EjerciciosExtra.exe
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\bin\Debug\net6.0\06-Colecciones_EjerciciosExtra.deps.json
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\bin\Debug\net6.0\06-Colecciones_EjerciciosExtra.runtimeconfig.json
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\bin\Debug\net6.0\06-Colecciones_EjerciciosExtra.dll
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\bin\Debug\net6.0\06-Colecciones_EjerciciosExtra.pdb
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\06-Colecciones_EjerciciosExtra.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\06-Colecciones_EjerciciosExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\06-Colecciones_EjerciciosExtra.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\06-Colecciones_EjerciciosExtra.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\06-Colecciones_EjerciciosExtra.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\06-Colecciones_EjerciciosExtra.dll
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\refint\06-Colecciones_EjerciciosExtra.dll
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\06-Colecciones_EjerciciosExtra.pdb
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\06-Colecciones_EjerciciosExtra.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\06-Colecciones_EjerciciosExtra\06-Colecciones_EjerciciosExtra\obj\Debug\net6.0\ref\06-Colecciones_EjerciciosExtra.dll
