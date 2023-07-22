@@ -8,13 +8,11 @@ namespace Consola
         static void Main(string[] args)
         {
             AutoF1 a1 = new AutoF1(1, "escu1");
-            AutoF1 a2 = new AutoF1(4, "escu2");
-            AutoF1 a3 = new AutoF1(5, "escu3");
-            AutoF1 a4 = new AutoF1(1, "escu1");
-            AutoF1 a5 = new AutoF1(2, "escu4");
-            Competencia competencia = new Competencia(5, 10);
-
-
+            AutoF1 a2 = new AutoF1(2, "escu2");
+            AutoF1 a3 = new AutoF1(3, "escu3");
+            AutoF1 a4 = new AutoF1(4, "escu4");
+            AutoF1 a5 = new AutoF1(5, "escu5");
+            Competencia competencia = new Competencia(3, 10);
 
             if (competencia + a1)
             {

@@ -37,9 +37,6 @@ namespace Biblioteca
             return sb.ToString();
         }
 
-
-
-
         public static bool operator +(Competencia c, AutoF1 a)
         {
             if (c.competidores.Count < c.cantidadCompetidores && c != a)
