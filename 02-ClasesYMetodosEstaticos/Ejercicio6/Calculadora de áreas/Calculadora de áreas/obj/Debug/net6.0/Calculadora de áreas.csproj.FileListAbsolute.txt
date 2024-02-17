@@ -1,0 +1,18 @@
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.exe
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.deps.json
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.runtimeconfig.json
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.dll
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.pdb
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\bin\Debug\net6.0\Entidades.dll
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\bin\Debug\net6.0\Entidades.pdb
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.AssemblyInfo.cs
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.csproj.CopyComplete
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.dll
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\refint\Calculadora de áreas.dll
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.pdb
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.genruntimeconfig.cache
+C:\Users\crist\source\repos\Calculadora de áreas\Calculadora de áreas\obj\Debug\net6.0\ref\Calculadora de áreas.dll

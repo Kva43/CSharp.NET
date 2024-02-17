@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora de áreas", "Calculadora de áreas\Calculadora de áreas.csproj", "{029CB0D9-1A30-4284-8500-708403C2B234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{99BABC8D-1CDC-4D5E-BBF4-3A5C23BF78A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029CB0D9-1A30-4284-8500-708403C2B234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029CB0D9-1A30-4284-8500-708403C2B234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029CB0D9-1A30-4284-8500-708403C2B234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029CB0D9-1A30-4284-8500-708403C2B234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BABC8D-1CDC-4D5E-BBF4-3A5C23BF78A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BABC8D-1CDC-4D5E-BBF4-3A5C23BF78A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BABC8D-1CDC-4D5E-BBF4-3A5C23BF78A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BABC8D-1CDC-4D5E-BBF4-3A5C23BF78A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF56D22-0065-4168-8D0B-D82837AE3BBC}
+	EndGlobalSection
+EndGlobal

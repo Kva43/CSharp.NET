@@ -1,0 +1,18 @@
+C:\Users\crist\source\repos\La calculadora\La calculadora\bin\Debug\net6.0\La calculadora.exe
+C:\Users\crist\source\repos\La calculadora\La calculadora\bin\Debug\net6.0\La calculadora.deps.json
+C:\Users\crist\source\repos\La calculadora\La calculadora\bin\Debug\net6.0\La calculadora.runtimeconfig.json
+C:\Users\crist\source\repos\La calculadora\La calculadora\bin\Debug\net6.0\La calculadora.dll
+C:\Users\crist\source\repos\La calculadora\La calculadora\bin\Debug\net6.0\La calculadora.pdb
+C:\Users\crist\source\repos\La calculadora\La calculadora\bin\Debug\net6.0\Entidades.dll
+C:\Users\crist\source\repos\La calculadora\La calculadora\bin\Debug\net6.0\Entidades.pdb
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\La calculadora.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\La calculadora.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\La calculadora.AssemblyInfo.cs
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\La calculadora.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\La calculadora.csproj.CopyComplete
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\La calculadora.dll
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\refint\La calculadora.dll
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\La calculadora.pdb
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\La calculadora.genruntimeconfig.cache
+C:\Users\crist\source\repos\La calculadora\La calculadora\obj\Debug\net6.0\ref\La calculadora.dll

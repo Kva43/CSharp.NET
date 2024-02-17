@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.exe
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.deps.json
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.runtimeconfig.json
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.dll
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.pdb
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.AssemblyInfo.cs
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.dll
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\obj\Debug\net6.0\refint\Aprendete las tablas.dll
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.pdb
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.genruntimeconfig.cache
+C:\Users\crist\source\repos\Aprendete las tablas\Aprendete las tablas\obj\Debug\net6.0\ref\Aprendete las tablas.dll

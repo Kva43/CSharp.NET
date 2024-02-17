@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.exe
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.deps.json
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.runtimeconfig.json
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.dll
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.pdb
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.AssemblyInfo.cs
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.dll
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\obj\Debug\net6.0\refint\El tiempo pasa.dll
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.pdb
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.genruntimeconfig.cache
+C:\Users\crist\source\repos\El tiempo pasa\El tiempo pasa\obj\Debug\net6.0\ref\El tiempo pasa.dll
