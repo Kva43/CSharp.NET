@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crist\\source\\repos\\El tiempo pasa\\El tiempo pasa\\El tiempo pasa.csproj": {}
+    "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio8\\El tiempo pasa\\El tiempo pasa\\El tiempo pasa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crist\\source\\repos\\El tiempo pasa\\El tiempo pasa\\El tiempo pasa.csproj": {
+    "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio8\\El tiempo pasa\\El tiempo pasa\\El tiempo pasa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crist\\source\\repos\\El tiempo pasa\\El tiempo pasa\\El tiempo pasa.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio8\\El tiempo pasa\\El tiempo pasa\\El tiempo pasa.csproj",
         "projectName": "El tiempo pasa",
-        "projectPath": "C:\\Users\\crist\\source\\repos\\El tiempo pasa\\El tiempo pasa\\El tiempo pasa.csproj",
+        "projectPath": "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio8\\El tiempo pasa\\El tiempo pasa\\El tiempo pasa.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crist\\source\\repos\\El tiempo pasa\\El tiempo pasa\\obj\\",
+        "outputPath": "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio8\\El tiempo pasa\\El tiempo pasa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

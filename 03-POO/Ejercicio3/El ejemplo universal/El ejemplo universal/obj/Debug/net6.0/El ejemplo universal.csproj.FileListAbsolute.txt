@@ -1,0 +1,18 @@
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\bin\Debug\net6.0\El ejemplo universal.exe
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\bin\Debug\net6.0\El ejemplo universal.deps.json
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\bin\Debug\net6.0\El ejemplo universal.runtimeconfig.json
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\bin\Debug\net6.0\El ejemplo universal.dll
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\bin\Debug\net6.0\El ejemplo universal.pdb
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\bin\Debug\net6.0\Entidades.dll
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\bin\Debug\net6.0\Entidades.pdb
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\El ejemplo universal.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\El ejemplo universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\El ejemplo universal.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\El ejemplo universal.AssemblyInfo.cs
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\El ejemplo universal.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\El ejemplo universal.csproj.CopyComplete
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\El ejemplo universal.dll
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\refint\El ejemplo universal.dll
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\El ejemplo universal.pdb
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\El ejemplo universal.genruntimeconfig.cache
+C:\Users\crist\source\repos\El ejemplo universal\El ejemplo universal\obj\Debug\net6.0\ref\El ejemplo universal.dll

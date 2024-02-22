@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crist\\source\\repos\\Aprendete las tablas\\Aprendete las tablas\\Aprendete las tablas.csproj": {}
+    "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio5\\Aprendete las tablas\\Aprendete las tablas\\Aprendete las tablas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crist\\source\\repos\\Aprendete las tablas\\Aprendete las tablas\\Aprendete las tablas.csproj": {
+    "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio5\\Aprendete las tablas\\Aprendete las tablas\\Aprendete las tablas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crist\\source\\repos\\Aprendete las tablas\\Aprendete las tablas\\Aprendete las tablas.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio5\\Aprendete las tablas\\Aprendete las tablas\\Aprendete las tablas.csproj",
         "projectName": "Aprendete las tablas",
-        "projectPath": "C:\\Users\\crist\\source\\repos\\Aprendete las tablas\\Aprendete las tablas\\Aprendete las tablas.csproj",
+        "projectPath": "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio5\\Aprendete las tablas\\Aprendete las tablas\\Aprendete las tablas.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crist\\source\\repos\\Aprendete las tablas\\Aprendete las tablas\\obj\\",
+        "outputPath": "C:\\Users\\crist\\source\\repos\\02-ClasesYMetodosEstaticos\\Ejercicio5\\Aprendete las tablas\\Aprendete las tablas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

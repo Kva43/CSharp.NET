@@ -1,0 +1,36 @@
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.exe
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.deps.json
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.runtimeconfig.json
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.dll
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.pdb
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.AssemblyInfo.cs
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.csproj.CopyComplete
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.dll
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\refint\03-POO_Ejercicio1.dll
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.pdb
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.genruntimeconfig.cache
+C:\Users\crist\source\repos\2023\03-POO_Ejercicio1\03-POO_Ejercicio1\obj\Debug\net6.0\ref\03-POO_Ejercicio1.dll
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.exe
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.deps.json
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.runtimeconfig.json
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.dll
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\bin\Debug\net6.0\03-POO_Ejercicio1.pdb
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.AssemblyInfo.cs
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.csproj.CopyComplete
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.dll
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\refint\03-POO_Ejercicio1.dll
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.pdb
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\03-POO_Ejercicio1.genruntimeconfig.cache
+C:\Users\crist\source\repos\03-POO\Ejercicio1\Creo que necesito un préstamo\03-POO_Ejercicio1\obj\Debug\net6.0\ref\03-POO_Ejercicio1.dll
