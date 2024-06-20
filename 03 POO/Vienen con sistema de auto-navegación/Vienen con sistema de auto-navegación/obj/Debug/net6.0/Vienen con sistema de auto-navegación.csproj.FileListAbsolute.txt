@@ -1,0 +1,18 @@
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\bin\Debug\net6.0\Vienen con sistema de auto-navegación.exe
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\bin\Debug\net6.0\Vienen con sistema de auto-navegación.deps.json
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\bin\Debug\net6.0\Vienen con sistema de auto-navegación.runtimeconfig.json
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\bin\Debug\net6.0\Vienen con sistema de auto-navegación.dll
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\bin\Debug\net6.0\Vienen con sistema de auto-navegación.pdb
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\bin\Debug\net6.0\Entidades.dll
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\bin\Debug\net6.0\Entidades.pdb
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\Vienen con sistema de auto-navegación.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\Vienen con sistema de auto-navegación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\Vienen con sistema de auto-navegación.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\Vienen con sistema de auto-navegación.AssemblyInfo.cs
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\Vienen con sistema de auto-navegación.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\Vienen con sistema de auto-navegación.csproj.CopyComplete
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\Vienen con sistema de auto-navegación.dll
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\refint\Vienen con sistema de auto-navegación.dll
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\Vienen con sistema de auto-navegación.pdb
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\Vienen con sistema de auto-navegación.genruntimeconfig.cache
+C:\Users\crist\source\repos\Vienen con sistema de auto-navegación\Vienen con sistema de auto-navegación\obj\Debug\net6.0\ref\Vienen con sistema de auto-navegación.dll

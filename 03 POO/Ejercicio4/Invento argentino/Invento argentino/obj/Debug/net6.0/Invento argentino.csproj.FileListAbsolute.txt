@@ -1,0 +1,36 @@
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.exe
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.deps.json
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.runtimeconfig.json
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.dll
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.pdb
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\bin\Debug\net6.0\Entidades.dll
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\bin\Debug\net6.0\Entidades.pdb
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.AssemblyInfo.cs
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.csproj.CopyComplete
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.dll
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\refint\Invento argentino.dll
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.pdb
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.genruntimeconfig.cache
+C:\Users\crist\source\repos\Invento argentino\Invento argentino\obj\Debug\net6.0\ref\Invento argentino.dll
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.exe
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.deps.json
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.runtimeconfig.json
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.dll
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\bin\Debug\net6.0\Invento argentino.pdb
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\bin\Debug\net6.0\Entidades.dll
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\bin\Debug\net6.0\Entidades.pdb
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.AssemblyInfo.cs
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.csproj.CopyComplete
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.dll
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\refint\Invento argentino.dll
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.pdb
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\Invento argentino.genruntimeconfig.cache
+C:\Users\crist\source\repos\03 POO\Ejercicio4\Invento argentino\Invento argentino\obj\Debug\net6.0\ref\Invento argentino.dll

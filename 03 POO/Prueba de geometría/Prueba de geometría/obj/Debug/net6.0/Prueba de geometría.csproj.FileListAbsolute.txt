@@ -1,0 +1,18 @@
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\bin\Debug\net6.0\Prueba de geometría.exe
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\bin\Debug\net6.0\Prueba de geometría.deps.json
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\bin\Debug\net6.0\Prueba de geometría.runtimeconfig.json
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\bin\Debug\net6.0\Prueba de geometría.dll
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\bin\Debug\net6.0\Prueba de geometría.pdb
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\bin\Debug\net6.0\Entidades.dll
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\bin\Debug\net6.0\Entidades.pdb
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\Prueba de geometría.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\Prueba de geometría.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\Prueba de geometría.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\Prueba de geometría.AssemblyInfo.cs
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\Prueba de geometría.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\Prueba de geometría.csproj.CopyComplete
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\Prueba de geometría.dll
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\refint\Prueba de geometría.dll
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\Prueba de geometría.pdb
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\Prueba de geometría.genruntimeconfig.cache
+C:\Users\crist\source\repos\Prueba de geometría\Prueba de geometría\obj\Debug\net6.0\ref\Prueba de geometría.dll
